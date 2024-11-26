@@ -53,6 +53,7 @@
 ```plaintext
 example.jpg: 1920 x 1080, DPI: 300, Color Depth: RGB, Compression: jpeg
 sample.png: 800 x 600, DPI: N/A, Color Depth: RGBA, Compression: N/A
+```
 
 ## Ограничения
 
