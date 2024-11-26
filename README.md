@@ -19,7 +19,7 @@
 2. Установите необходимые зависимости:
 
    ```bash
-   pip install pillow```
+   pip install pillow
 
 ## Использование
 
@@ -28,7 +28,7 @@
 2. Запустите приложение:
 
    ```bash
-   python IIReader.py```
+   python IIReader.py
 
 ## Использование
 
@@ -52,7 +52,7 @@
 
 ```plaintext
 example.jpg: 1920 x 1080, DPI: 300, Color Depth: RGB, Compression: jpeg
-sample.png: 800 x 600, DPI: N/A, Color Depth: RGBA, Compression: N/A```
+sample.png: 800 x 600, DPI: N/A, Color Depth: RGBA, Compression: N/A
 
 ## Ограничения
 
